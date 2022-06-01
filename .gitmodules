@@ -1,0 +1,6 @@
+[submodule "journal-app-client"]
+	path = journal-app-client
+	url = https://github.com/almeidavc/journal-app-client
+[submodule "journal-app-server"]
+	path = journal-app-server
+	url = https://github.com/almeidavc/journal-app-server
