@@ -20,11 +20,11 @@ Implemented a full-stack web application in JavaScript, including a REST API usi
 
 ## App Demo
 
-![App Demo](./journal-app-client/app-demo.gif)
+![App Demo](https://raw.githubusercontent.com/almeidavc/journal-app-client/master/app-demo.gif)
 
 ## Backend Architecture
 
-![Backend Architecture](./journal-app-server/backend-architecture.png)
+![Backend Architecture](https://raw.githubusercontent.com/almeidavc/journal-app-server/master/backend-architecture.png)
 
 ## API Endpoints
 
